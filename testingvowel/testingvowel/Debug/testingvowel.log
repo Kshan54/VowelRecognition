@@ -1,0 +1,21 @@
+﻿Build started 27-11-2020 22:16:25.
+     1>Project "C:\Users\kashy\Documents\Visual Studio 2010\Projects\204101051_vowelRecognition\testingvowel\testingvowel\testingvowel.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testingvowel.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\testingvowel.unsuccessfulbuild".
+         Touching "Debug\testingvowel.lastbuildstate".
+     1>Done Building Project "C:\Users\kashy\Documents\Visual Studio 2010\Projects\204101051_vowelRecognition\testingvowel\testingvowel\testingvowel.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
